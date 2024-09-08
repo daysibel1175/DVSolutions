@@ -46,7 +46,7 @@ const Hero = () => {
       <h2>Contato</h2>
       <div id='contato'>
         <p className='contato'><WhatsAppIcon/><a href="https://wa.me/32998354656?text=Olá,%20quero%20contratar">¡Conversamos pelo WhatsApp!</a></p>
-        <p className='contato'> <EmailIcon/> Prefere pelo Email? estergutierres1175@gmail.com</p>
+        <p className='contato'> <EmailIcon/> estergutierres1175@gmail.com</p>
         <a href="#inicio" className='contato'><ArrowUpwardIcon/></a>
       </div>
       
