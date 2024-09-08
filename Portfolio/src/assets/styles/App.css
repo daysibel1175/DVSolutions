@@ -149,7 +149,8 @@ margin-top: 1rem;
         justify-content: center;
         align-items: center;
         gap: 1rem;
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr;
+margin-bottom: 1rem;
       } 
       #contato{
         display: flex;
