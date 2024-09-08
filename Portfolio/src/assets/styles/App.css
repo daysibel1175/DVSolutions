@@ -150,16 +150,18 @@
         align-items: center;
         gap: 1rem;
         grid-template-columns: 1fr;
-
+margin-bottom:3rem;
       } 
       #contato{
         display: flex;
         flex-direction:column;
         align-items:center;
         justify-content: center;
-margin-top: 10rem;
     
       }
+.card{
+height: auto;
+}
      
     }
   }
