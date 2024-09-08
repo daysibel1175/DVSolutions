@@ -120,6 +120,7 @@
   @media (max-width: 600px) {
     main {
       padding: 1rem;
+      width: 90%;
     }
     #servico{
       max-width: 100%;
@@ -137,7 +138,10 @@
   
     }
     @media (max-width: 400px) {
-      
+      main {
+        padding: 0.5rem;
+        width: 90%;
+      }
       #servico{
         max-width: 100%;
         display: grid;
